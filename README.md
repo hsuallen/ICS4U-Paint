@@ -5,23 +5,23 @@ has been truly successful.
 
 ### Tools
 
-Pen - great for sketching smaller details, has extremely thin stroke
-Brush - great for bigger sections of the canvas such as the background colour
-Eraser - self explanatory
-Bucket - fills the entire screen up with one solid colour
-Circle - great for making ellipses or perfect circles
-Rectangle - great for making rectangles
-Line - great for making straight lines
++ Pen - great for sketching smaller details, has extremely thin stroke
++ Brush - great for bigger sections of the canvas such as the background colour
++ Eraser - self explanatory
++ Bucket - fills the entire screen up with one solid colour
++ Circle - great for making ellipses or perfect circles
++ Rectangle - great for making rectangles
++ Line - great for making straight lines
 
 ### Tool Shortcuts
 
-p - Pen
-b - Brush
-e - Eraser
-g - bucket
-c - circle
-r - rectangle
-l - line
++ __p__: pen
++ __b__: brush
++ __e__: eraser
++ __g__: bucket
++ __c__: circle
++ __r__: rectangle
++ __l__: line
 
 ### Colour Selection
 
